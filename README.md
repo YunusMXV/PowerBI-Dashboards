@@ -15,3 +15,4 @@ Transport Analytics Dashboard created by Younas Mahmood and Muhammad Aarij
 
 Chips Mobile App Dashboard
 ![Screenshot 2024-11-22 163125](https://github.com/user-attachments/assets/8901a410-f6ff-4547-85af-13239896821b)
+Viewable here: https://app.powerbi.com/view?r=eyJrIjoiOWNkNjEyODctM2QxYi00ZTljLTg4MjMtMzUwYmM2M2Q4M2JkIiwidCI6ImZlZTNiOTE2LTAxYzEtNDk4Ny1hNjQ2LWUxOTM0MzJiOWVhYSIsImMiOjl9
