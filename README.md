@@ -9,3 +9,9 @@ Coffee Dashboard created by Younas Mahmood and Hassan Ahmed Saeed
 
 HR Insights Dashboard created by Younas Mahmood
 ![Job_Cloud_snap](https://github.com/YunusMXV/PowerBI-Dashboards/assets/79001921/98270923-94b4-459f-ab58-9b45e67bfad5)
+
+Transport Analytics Dashboard created by Younas Mahmood and Muhammad Aarij
+![Dashboard_before_trigger](https://github.com/user-attachments/assets/77852a0f-a92e-47a4-bc89-3dcccaacbbb1)
+
+Chips Mobile App Dashboard
+![Screenshot 2024-11-22 163125](https://github.com/user-attachments/assets/8901a410-f6ff-4547-85af-13239896821b)
